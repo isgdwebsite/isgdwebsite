@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.isgd.org	TRUE	/	FALSE	1999999999	PHPSESSID	6cr9g99vueaq3rpa5lgdq9bh62
+www.isgd.org	TRUE	/	FALSE	1999999999	a00d84ca88a821b1adc25da0ce663567	0ba922d4c46e2605a3e6d4e523be9275
+.paypalobjects.com	TRUE	/	FALSE	1999999999	PYPF	CT-2
+www.isgd.org	TRUE	/	FALSE	1999999999	wordpress_test_cookie	WP+Cookie+check
+
